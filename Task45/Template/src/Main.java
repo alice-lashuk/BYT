@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         ChoosingOutfitTemplate builder1 = new FemaleOutfitBuilder();
-        ChoosingOutfitTemplate builder2 = new FemaleOutfitBuilder();
+        ChoosingOutfitTemplate builder2 = new MaleOutfitBuilder();
 
         Outfit outfit1 = builder1.chooseCasualOutfit();
         Outfit outfit2 = builder1.chooseCasualOutfit();
