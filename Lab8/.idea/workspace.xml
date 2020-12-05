@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e74fd614-a4eb-4c5d-a50c-67b8d097d6a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab67/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab67/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task45/Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/AdditionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/DivisionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/MultiplicationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Calculator/SubtractionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/AdditionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/DivisionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/MultiplicationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Calculator/out/production/Task45/SubtractionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task45/Mediator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/Colleague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/ConcreteColleague1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/ConcreteColleague2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/ConcreteColleague3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/ConcreteMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Mediator/out/production/Mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task45/Template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Blazer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/ChoosingOutfitTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Dress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/FemaleOutfitBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Jeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/META-INF/Builder.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/MaleOutfitBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Outfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Skirt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Top.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Trousers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Builder/Tshirt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task45/Template/out/production/Template/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Task45/Template/out/production/Template/Main.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-02/src/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-04/src/PersonClientsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-02/src/ConfigurationException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-04/src/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-03/src/ExpressionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-01/src/Matcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise-05/src/CsvWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-01/src/MatcherTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-05/src/CsvWriterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-03/src/Expression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exercise-01/src/MatcherTest.java" />
+        <option value="$PROJECT_DIR$/exercise-04/src/Client1.java" />
+        <option value="$PROJECT_DIR$/exercise-04/src/Client3.java" />
+        <option value="$PROJECT_DIR$/exercise-04/src/Client2.java" />
+        <option value="$PROJECT_DIR$/exercise-01/src/Matcher.java" />
+        <option value="$PROJECT_DIR$/exercise-04/src/PersonClientsTest.java" />
+        <option value="$PROJECT_DIR$/exercise-03/src/ExpressionTest.java" />
+        <option value="$PROJECT_DIR$/exercise-03/src/Expression.java" />
+        <option value="$PROJECT_DIR$/exercise-02/src/ConfigurationTest.java" />
+        <option value="$PROJECT_DIR$/exercise-05/src/CsvWriter.java" />
+        <option value="$PROJECT_DIR$/exercise-02/src/Configuration.java" />
+        <option value="$PROJECT_DIR$/exercise-04/src/Person.java" />
+        <option value="$PROJECT_DIR$/exercise-05/src/CsvWriterTest.java" />
+        <option value="$PROJECT_DIR$/exercise-06/src/TicTacToe.java" />
+        <option value="$PROJECT_DIR$/exercise-06/src/TicTacToeTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise-05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise-05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="protected" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MatcherTest">
+    <configuration name="ConfigurationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConfigurationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatcherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonClientsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonClientsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TicTacToeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest.testWinConditions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TicTacToeTest" />
+      <option name="METHOD_NAME" value="testWinConditions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MatcherTest" />
+        <item itemvalue="JUnit.ConfigurationTest" />
+        <item itemvalue="JUnit.TicTacToeTest" />
+        <item itemvalue="JUnit.TicTacToeTest.testWinConditions" />
+        <item itemvalue="JUnit.PersonClientsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e74fd614-a4eb-4c5d-a50c-67b8d097d6a9" name="Default Changelist" comment="" />
+      <created>1607088384631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607088384631</updated>
+      <workItem from="1607088386012" duration="8870000" />
+      <workItem from="1607107473949" duration="2813000" />
+      <workItem from="1607178586683" duration="8760000" />
+      <workItem from="1607189427050" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConfigurationTest_testGoodInput - 2020.12.05 at 17h 24m 51s.xml">
+      <configuration name="ConfigurationTest.testGoodInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest - 2020.12.05 at 17h 24m 56s.xml">
+      <configuration name="ConfigurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest_testGoodInput - 2020.12.05 at 17h 25m 36s.xml">
+      <configuration name="ConfigurationTest.testGoodInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest - 2020.12.05 at 17h 25m 40s.xml">
+      <configuration name="ConfigurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest - 2020.12.05 at 17h 26m 04s.xml">
+      <configuration name="ConfigurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonClientsTest - 2020.12.05 at 17h 27m 28s.xml">
+      <configuration name="PersonClientsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicTacToeTest_testWinConditions - 2020.12.05 at 17h 31m 39s.xml">
+      <configuration name="TicTacToeTest.testWinConditions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicTacToeTest_testWinConditions - 2020.12.05 at 17h 38m 26s.xml">
+      <configuration name="TicTacToeTest.testWinConditions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicTacToeTest - 2020.12.05 at 17h 38m 30s.xml">
+      <configuration name="TicTacToeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherTest - 2020.12.05 at 18h 30m 38s.xml">
+      <configuration name="MatcherTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19036144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercise-01/exercise-01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/StringWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/exercise-04/exercise-04.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/Client1.java" />
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/Client2.java" />
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/Client3.java" />
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/Client4.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="4574" column="9" lean-forward="true" selection-start-line="4560" selection-start-column="7" selection-end-line="4574" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-06/src/TicTacToe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="33" column="91" selection-start-line="33" selection-start-column="91" selection-end-line="33" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-06/src/TicTacToeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-02/src/ConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-02/src/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/PersonClientsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-02/src/ConfigurationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-04/src/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-03/src/ExpressionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-01/src/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-05/src/CsvWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-03/src/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-01/src/MatcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-05/src/CsvWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
