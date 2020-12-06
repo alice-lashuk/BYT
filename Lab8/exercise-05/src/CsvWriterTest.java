@@ -24,7 +24,6 @@ public class CsvWriterTest {
 		// ",","embedded , commas, included","trailing comma,"
 		// """","embedded "" quotes","multiple """""" quotes"""""
 		// "mixed commas, and ""quotes""",simple field
-//		System.out.println(Arrays.deepToString(lines));
 
 		writer.write(lines);
 	}

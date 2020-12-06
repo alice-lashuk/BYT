@@ -1,41 +1,56 @@
+import java.io.PrintStream;
+// Made constants, divided methods into ones which are creating strings, escaping quotes and writing to the stream
 public class CsvWriter {
+	
+	private PrintStream printStream;
+	private final static char DELIMITER = ',';
+	private final static char ESCAPE_CHARACTER = '\"';
+	private final static char NEW_LINE_CHARACTER = '\n';
+
+	//default constructor for console output
 	public CsvWriter() {
+		this(System.out);
 	}
 
+	public CsvWriter(PrintStream printStream) {
+		this.printStream = printStream;
+	}
+
+	//write to the stream
 	public void write(String[][] lines) {
 		for (int i = 0; i < lines.length; i++)
-			writeLine(lines[i]);
+			printStream.print(formatLine(lines[i]));
 	}
 
-	private void writeLine(String[] fields) {
-		if (fields.length == 0)
-			System.out.println();
-		else {
-			writeField(fields[0]);
-
-			for (int i = 1; i < fields.length; i++) {
-				System.out.print(",");
-				writeField(fields[i]);
+	//formatting line, returning string created using StringBuilder
+	private String formatLine(String[] fields) {
+		StringBuilder builder = new StringBuilder();
+		for (int i = 0; i < fields.length; i++) {
+			if (i != 0) {
+				builder.append(DELIMITER);
 			}
-			System.out.println();
+			builder.append(escape(fields[i]));
 		}
-	}
-	private void writeField(String field) { //print
-		if (field.indexOf(',') != -1 || field.indexOf('\"') != -1)
-			writeQuoted(field);
-		else
-			System.out.print(field);
+		builder.append(NEW_LINE_CHARACTER);
+		return builder.toString();
 	}
 
-	private void writeQuoted(String field) {//print quoted
-		System.out.print('\"');
+	private String escape(String field) {
+		if (field.indexOf(DELIMITER) == -1 && field.indexOf(ESCAPE_CHARACTER) == -1) {
+			return field;
+		}
+		StringBuilder builder = new StringBuilder();
+		builder.append(ESCAPE_CHARACTER);
 		for (int i = 0; i < field.length(); i++) {
 			char c = field.charAt(i);
-			if (c == '\"')
-				System.out.print("\"\"");
-			else
-				System.out.print(c);
+			if (c == ESCAPE_CHARACTER) {
+				builder.append(ESCAPE_CHARACTER);
+				builder.append(ESCAPE_CHARACTER);
+			} else {
+				builder.append(c);
+			}
 		}
-		System.out.print('\"');
+		builder.append(ESCAPE_CHARACTER);
+		return builder.toString();
 	}
 }
